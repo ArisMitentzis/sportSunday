@@ -1,4 +1,5 @@
 #Java SE project: sportSunday
+
 Desktop application for managing sport tournaments. The design is based on MVC design pattern.
 
 Written in 2017.
@@ -60,5 +61,5 @@ That's all for now...
 
 This program was made by Mitentzis Aristeidis. 
 
-LinkedIn: linkedin.com/in/Mitentzisaristeidis
+https://www.linkedin.com/in/mitentzisaristeidis/
 
