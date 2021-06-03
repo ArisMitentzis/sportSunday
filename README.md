@@ -1,8 +1,12 @@
 #Java SE project: sportSunday
 
-Desktop application for managing sport tournaments. The design is based on MVC design pattern.
-
 Written in 2017.
+
+Desktop application for managing sport tournaments. The design is based on MVC design pattern. The user has the 
+choice to create and storage teams, athletes, tournaments and adjust their characteristics. Additionally, it is 
+provided: lottery of schedule, schedule where he can register scores, statistics table, multiple ways of sorting 
+the statistics table.
+
 Technologies: Java SE, Swing, Serialization, MVC design pattern
 
 Google drive link for executable jars: https://drive.google.com/drive/u/2/folders/12UiKs0epzcEZs6CR22qAEV7OzepmejwE
